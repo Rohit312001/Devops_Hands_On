@@ -1,4 +1,4 @@
-# BASIC LINUX COMMANDS
+# BASIC LINUX COMMANDS PART 1
 
 ![images](https://user-images.githubusercontent.com/76991475/232840834-c718ac64-f703-44ee-b85c-d5b92d7b864a.jpeg)
 
